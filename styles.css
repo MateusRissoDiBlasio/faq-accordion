@@ -22,6 +22,7 @@ main{
     gap: 10px;
     min-height: 340px;
     margin-bottom: 40px;
+    box-shadow: 0px 20px 24px 5px rgba(0, 0, 0, 0.1);
 }
 
 main :last-child{
