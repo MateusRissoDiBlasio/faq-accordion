@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [https://mateusrissodiblasio.github.io/faq-accordion](https://mateusrissodiblasio.github.io/faq-accordion)
+- Live Site URL: [https://www.frontendmentor.io/solutions/accordion-faq-without-javascript-tW__UfQA9D](https://www.frontendmentor.io/solutions/accordion-faq-without-javascript-tW__UfQA9D)
 
 ## My process
 
@@ -54,5 +54,5 @@ Creating smooth transition animations on accordion summaries tags, that would wo
 
 ## Author
 
-- Website - [Mateus Risso Di Blasio](https://github.com/MateusRissoDiBlasio)
+- GitHub - [Mateus Risso Di Blasio](https://github.com/MateusRissoDiBlasio)
 - Frontend Mentor - [@MateusRissoDiBlasio](https://www.frontendmentor.io/profile/MateusRissoDiBlasio)
